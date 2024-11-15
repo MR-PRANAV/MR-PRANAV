@@ -15,7 +15,6 @@ Currently working on: Building a Spotify clone<br>Looking to collaborate on: Adv
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -41,5 +40,5 @@ Currently working on: Building a Spotify clone<br>Looking to collaborate on: Adv
 ![](https://github-contributor-stats.vercel.app/api?username=MR-PRANAV&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MR-PRANAV&icon=4&color=10)](https://visitcount.itsvg.in)
+
 
