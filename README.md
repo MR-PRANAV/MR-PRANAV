@@ -41,4 +41,6 @@ Currently working on: Building a Spotify clone<br>Looking to collaborate on: Adv
 
 ---
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MR-PRANAV&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
