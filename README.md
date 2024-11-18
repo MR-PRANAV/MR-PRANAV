@@ -1,5 +1,10 @@
 # 💫 About Me:
-Currently working on: Building a Spotify clone<br>Looking to collaborate on: Advanced web development projects with JavaScript, Node.js, Mongoose and modern tech stacks<br>Seeking help with: Insights on advanced JavaScript and backend with Mongoose<br>Currently learning: Advanced JavaScript, backend development with Node.js, Mongoose and integrating tools like Clerk,  and Stripe<br>Ask me about: Web development, HTML5, CSS3, JavaScript, and Git/GitHub<br>Fun fact: Started web development in 2022 by creating custom themes, and I love lighting up my project for Diwali🎆🎇!
+Currently Working On: Building a Spotify clone.
+Looking to Collaborate On: Advanced web development projects leveraging JavaScript, Node.js, Mongoose, and modern tech stacks.
+Seeking Help With: Advanced JavaScript concepts and backend development using Mongoose.
+Currently Learning: Advanced JavaScript, backend development with Node.js and Mongoose, and integrating tools like Clerk and Stripe.
+Ask Me About: Web development, including HTML5, CSS3, JavaScript, and version control with Git/GitHub.
+Fun Fact: I began my web development journey in 2022 by designing custom themes, and I enjoy lighting up my projects for Diwali 🎆🎇.
 
 
 ## 🌐 Socials:
