@@ -45,7 +45,3 @@ Fun Fact: I began my web development journey in 2022 by designing custom themes,
 ![](https://github-contributor-stats.vercel.app/api?username=MR-PRANAV&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MR-PRANAV&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
