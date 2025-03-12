@@ -1,10 +1,6 @@
 # 💫 About Me:
-Currently Working On: Building a Spotify clone.
-Looking to Collaborate On: Advanced web development projects leveraging JavaScript, Node.js, Mongoose, and modern tech stacks.
-Seeking Help With: Advanced JavaScript concepts and backend development using Mongoose.
-Currently Learning: Advanced JavaScript, backend development with Node.js and Mongoose, and integrating tools like Clerk and Stripe.
-Ask Me About: Web development, including HTML5, CSS3, JavaScript, and version control with Git/GitHub.
-Fun Fact: I began my web development journey in 2022 by designing custom themes, and I enjoy lighting up my projects for Diwali 🎆🎇.
+A passionate web developer skilled in Java, Node.js, and full-stack technologies, with a knack for building dynamic & user-friendly applications. Experienced in API handling, database management, backend optimization & version control, always eager to explore new technologies & enhance problem-solving skills - Lets have a lookup at Over-All
+
 
 
 ## 🌐 Socials:
